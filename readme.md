@@ -1,3 +1,4 @@
+<p>Soft delete adalah fitur pada laravel yang digunakan untuk penghapusan data sementara. Datanya tidak benar-benar terhapus, masih terdapat ditabel tadpi tidak ditampilkan lagi, sehingga bisa menampilkan kembali data(restore) dengan mudah</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
